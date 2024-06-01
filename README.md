@@ -1,3 +1,11 @@
+Para hacer uso de este proyecto es necesario tener instalado la base de datos *postgresql*
+
+Y cambiar la configuración del archivo: *application.properties*, con el nombre de usuario y la contraseña de la base de datos utilizada, esto se puede ver a continuación:
+
+![image](https://github.com/MateoV07/challege-api-gutendex-books/assets/146654067/b64a942c-4f36-44e2-bcc0-778f5a489358)
+
+
+
 1. Menu inicial: 
 
 ![image](https://github.com/MateoV07/api-libros-literalura/assets/146654067/96e2ec8f-bc40-42f5-be5b-071a2c170669)
